@@ -1,6 +1,6 @@
 # My Subscription Manager
 
-Under construction.
+Subscription-based financial management application (SSR) with a dashboard for monthly and annual expenses, renewal alerts, categorization by service type, visual analysis of expenses by category and billing cycle, plan comparison, and detailed statistics.
 
 
 ## ScreenShots
